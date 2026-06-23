@@ -1,4 +1,4 @@
-# PASC whole-genoemn methylation sequencing and single-cell DNA methylation sequencing analysis
+# PASC whole-genome methylation sequencing and single-cell DNA methylation sequencing analysis
 Code used to analyze whole-genome methylation sequencing (WGMS) data from PASC data (cohort 1)
 
 Updated June 23, 2026:
