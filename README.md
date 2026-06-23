@@ -3,3 +3,7 @@ Code used to analyze whole-genome methylation sequencing (WGMS) data from PASC d
 
 Updated June 23, 2026:
 Now includes code used to analyze WGMS from the second PASC cohort versus various whole blood healthy-control cohorts, along with script used to analyze the single-cell DNA methylation sequencing samples from three case and three control samples.
+
+Questions, concerns, comments, and recommendations for good bottles of dry red wine can be sent to: andy.madrid[at]hmh-cdi.org
+
+See you, space cowboy . . .
